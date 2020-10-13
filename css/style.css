@@ -257,11 +257,12 @@ ol {
 -----------------------*/
 
 .header-section {
-	background: #353535;
-	padding-left: 30px;
+	/*background: #353535;*/
+	background: url("../img/alutend-logo-pattern.jpg") repeat;
+	/*padding-left: 30px;
 	padding-right: 30px;
 	padding-top: 30px;
-	padding-bottom: 24px;
+	padding-bottom: 24px;*/
 	position: absolute;
 	width: 100%;
 	left: 0;
@@ -271,7 +272,8 @@ ol {
 
 .inner-header .logo {
 	float: left;
-	line-height: 60px;
+	line-height: 60px;	
+	
 }
 
 .inner-header .logo a {
