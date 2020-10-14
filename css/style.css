@@ -846,7 +846,7 @@ ol {
 
 .footer-section {
 	background: #242424;
-	padding-top: 72px;
+	padding-top: 10px;
 }
 
 .footer-item {
@@ -952,8 +952,8 @@ ol {
 .copyright {
 	background: #171717;
 	overflow: hidden;
-	padding: 24px;
-	margin-top: 30px;
+	padding: 5px;
+	margin-top: 5px;
 }
 
 .copyright .copyright-text {
@@ -1981,7 +1981,7 @@ ol {
 	}
 	.copyright .copyright-text {
 		float: none;
-		margin-bottom: 10px;
+		margin-bottom: 1px;
 	}
 	.copyright ul {
 		float: none;
